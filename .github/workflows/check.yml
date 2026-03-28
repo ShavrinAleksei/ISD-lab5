@@ -22,4 +22,4 @@ jobs:
 
       - name: Run pycodestyle
         run: |
-          pycodestyle --max-line-length=99 *.py
+          pycodestyle --max-line-length=79 *.py
